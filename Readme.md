@@ -82,7 +82,7 @@ def last_commit= sh(script: "git rev-parse --short HEAD", returnStdout: true).tr
 ```
 ## Dockerfile
 
-Contains the cuild file for Dockerimage.
+Contains the build file for Dockerimage.
 
 
 
