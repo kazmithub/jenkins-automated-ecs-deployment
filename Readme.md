@@ -9,11 +9,11 @@ A jenkins server is configured on an  EC2 instance.
 Before reading this, 
 - AWS account 
 - AWS services basic knowledge
-- (Terraform)[https://www.terraform.io/] knowledge
-- Extensive knowledge of (Docker)[https://www.docker.com/]
-- Extensive knowledge of (Amazon ECS)[https://aws.amazon.com/ecs/] service 
-- (Jenkins)[https://jenkins.io/] knowledge
-- (Groovy)[https://groovy-lang.org/syntax.html] syntax
+- [Terraform](https://www.terraform.io/) knowledge
+- Extensive knowledge of [Docker](https://www.docker.com/)
+- Extensive knowledge of [Amazon ECS](https://aws.amazon.com/ecs/) service 
+- [Jenkins](https://jenkins.io/) knowledge
+- [Groovy](https://groovy-lang.org/syntax.html) syntax
 is required
 
 ## Modules
